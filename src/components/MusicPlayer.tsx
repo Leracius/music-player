@@ -1,4 +1,4 @@
-import { useState, useRef, useMemo, useEffect } from "react";
+import { useState, useRef, useMemo } from "react";
 import { db } from "../db";
 import { convertNumberToTime } from "../utils/control-player";
 
